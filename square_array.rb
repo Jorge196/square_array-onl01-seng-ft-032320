@@ -1,3 +1,4 @@
 def square_array(array)
-  # your code here
+  numbers = [10, 20, 30]
+  
 end
